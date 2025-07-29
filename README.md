@@ -1,6 +1,6 @@
 # Scroll Indicator Frontend
 
-### Here use one website for Three some data
+### Here use one website for Thare some data
 
 ```
 -> Website is :- dummyjson.com
