@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import ScrollIndicator from "./scroll-indicator";
 
 function App() {
   return (
-    <div>App</div>
-  )
+    <div>
+      {/* Scroll indicator component */}
+      <ScrollIndicator url={"https://dummyjson.com/products?limit=100"} />
+    </div>
+  );
 }
 
-export default App
+export default App;
